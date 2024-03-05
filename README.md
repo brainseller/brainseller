@@ -1,5 +1,5 @@
 Hi, I’m @brainseller  
-I'm a developer who loves to code.  
+I'm a designer who loves to code.  
 Therefor I won't use GitHub a lot. But surely from time to time.
 
 I'm interested in everything web and am currently building a design system for my employer.
