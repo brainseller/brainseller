@@ -4,7 +4,7 @@ Therefor I won't use GitHub a lot. But surely from time to time.
 
 I'm interested in everything web and am currently building a design system for my employer.
 
-Find our more on me on https://frankfuchs.net
+Find out more about me on https://frankfuchs.net
 
 <!---
 brainseller/brainseller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
